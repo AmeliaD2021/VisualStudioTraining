@@ -14,7 +14,9 @@ My favorite **list** *food*
 
 1. Fries
 ![Fries](../../../../Users/dinha/Desktop/curlyfries-shutterstock%20crop.jpg)
+<img src="../../../../Users/dinha/Desktop/curlyfries-shutterstock%20crop.jpg" width="500" height="300">
 2. Apple
 ![Apple](../../../../Users/dinha/Desktop/apple.jpg)
+<img src="../../../../Users/dinha/Desktop/apple.jpg" width="500" height="300">
 
 [Google](http://google.com)

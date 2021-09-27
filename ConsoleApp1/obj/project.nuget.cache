@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+JEGtyhOFqrSB6wvsixxhLL7XnQFyl3bb+7UwPMdB62pGfGfkJ/ymKo+++0TVSiaOmsZgOU9/5kq9ZjlMfwJPg==",
+  "success": true,
+  "projectFilePath": "C:\\OED\\Dotnetland\\VS2019\\VisualStudioTraining\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dinha\\.nuget\\packages\\kp.stringlanguageextensions\\1.0.0\\kp.stringlanguageextensions.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
